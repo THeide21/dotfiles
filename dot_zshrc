@@ -105,4 +105,4 @@ source $ZSH/oh-my-zsh.sh
 
 . "$HOME/.local/bin/env"
 
-export GITHUB_USERNAME=THedie21
+export GITHUB_USERNAME=THeide21
